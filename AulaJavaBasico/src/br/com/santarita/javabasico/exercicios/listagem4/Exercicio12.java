@@ -16,7 +16,6 @@ public class Exercicio12 {
 			System.out.println("Alteração");
 			
 		case 'p':
-		case 'P':
 			System.out.println("Alteração");
 		default:
 			System.out.println("Opção inválida !");
