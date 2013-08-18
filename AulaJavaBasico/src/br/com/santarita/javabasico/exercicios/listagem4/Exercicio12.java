@@ -20,7 +20,9 @@ public class Exercicio12 {
 		default:
 			System.out.println("Opção inválida !");
 		}
-	33	teste
+	s
+	e
+	teste
 	}
 
 }
