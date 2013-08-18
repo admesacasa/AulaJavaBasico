@@ -20,14 +20,8 @@ public class Exercicio12 {
 		default:
 			System.out.println("Opção inválida !");
 		}
-<<<<<<< HEAD
 
 		teste
-=======
-	s
-	e
-	teste
->>>>>>> refs/remotes/choose_remote_name/master
 	}
 
 }
