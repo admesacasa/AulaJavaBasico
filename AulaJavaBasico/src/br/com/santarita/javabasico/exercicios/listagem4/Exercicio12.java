@@ -21,6 +21,8 @@ public class Exercicio12 {
 			System.out.println("Opção inválida !");
 		}
 	//agora entendi
+		
+		//teste
 	}
 
 }
