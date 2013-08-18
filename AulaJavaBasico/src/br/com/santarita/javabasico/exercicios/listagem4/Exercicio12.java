@@ -19,7 +19,7 @@ public class Exercicio12 {
 			System.out.println("Alteração");
 		default:
 			System.out.println("Opção inválida !");
-	
+	e
 		}
 		
 		
