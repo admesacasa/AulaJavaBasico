@@ -22,7 +22,6 @@ public class Exercicio12 {
 		}
 	//agora entendi
 		
-		//teste
 	}
 
 }
